@@ -1,3 +1,3 @@
-import funcoes_leitura as f
+import cyk as f
 
 f.init("gramatica.txt")
